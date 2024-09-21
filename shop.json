@@ -1,0 +1,136 @@
+{
+    "goods":[
+        {
+            "id": 1,
+            "name": "Авокадо",
+            "quantity": "500 г",
+            "category": "Фрукты",
+            "image": "https://img.freepik.com/premium-photo/avocado-photo-isolated-white-background_198067-1.jpg",
+            "price": 350,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        },
+        {
+            "id": 2,
+            "name": "Яблоки",
+            "quantity": "1 кг",
+            "image": "https://img.freepik.com/premium-photo/one-green-apple-isolated-white-background_270100-879.jpg",
+            "category": "Фрукты",
+            "price": 50,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        },
+        {
+            "id": 3,
+            "name": "Груша",
+            "quantity": "1 кг",
+            "image": "https://media.istockphoto.com/id/1299073137/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B3%D1%80%D1%83%D1%88%D0%B8-%D0%B8%D0%B7%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D1%8B-%D0%BF%D0%BE%D0%BB%D1%82%D0%BE%D1%80%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D1%85-%D0%B3%D1%80%D1%83%D1%88%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D1%85-%D0%BF%D0%BB%D0%BE%D0%B4%D0%B0-%D1%81-%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%BC-%D0%BD%D0%B0-%D0%B1%D0%B5%D0%BB%D0%BE%D0%BC-%D1%84%D0%BE%D0%BD%D0%B5-%D0%BA%D1%83%D1%81%D0%BE%D1%87%D0%B5%D0%BA-%D0%B3%D1%80%D1%83%D1%88%D0%B8-%D1%81.jpg?s=612x612&w=0&k=20&c=MZj7_MqWIjizDtj4861FF4GL8eKpVzaLxUZ82bHI_8E=",
+            "category": "Фрукты",
+            "price": 75,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        },
+        {
+            "id": 4,
+            "name": "Виноград",
+            "quantity": "500 г",
+            "image": "https://img.freepik.com/premium-photo/grapes-white-background_181303-4249.jpg",
+            "category": "Фрукты",
+            "price": 250,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        },
+        {
+            "id": 5,
+            "name": "Клубника",
+            "quantity": "500 г",
+            "image": "https://img.freepik.com/premium-photo/single-ripe-strawberry-isolated-white-background_692357-2344.jpg",
+            "category": "Фрукты",
+            "price": 290,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        },
+        {
+            "id": 6,
+            "name": "Малина",
+            "quantity": "800 г",
+            "image": "https://img.freepik.com/premium-vector/red-raspberry-fruit-painting-white-background_52034-382.jpg",
+            "category": "Фрукты",
+            "price": 320,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        },
+        {
+            "id": 7,
+            "name": "Голубика",
+            "quantity": "350 г",
+            "image": "https://img.freepik.com/premium-photo/close-up-one-blueberry-isolated-white-background_58717-213.jpg",
+            "category": "Фрукты",
+            "price": 500,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        },
+        {
+            "id": 8,
+            "name": "Бананы",
+            "quantity": "1 кг",
+            "image": "https://img.freepik.com/premium-photo/peeled-banana-isolated-white-background-with-clipping-path_88281-97.jpg",
+            "category": "Фрукты",
+            "price": 90,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        },
+        {
+            "id": 9,
+            "name": "Томаты",
+            "quantity": "1 кг",
+            "image": "https://img.freepik.com/free-vector/fresh-tomato_1053-566.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1725840000&semt=ais_hybrid",
+            "category": "Овощи",
+            "price": 110,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        },
+        {
+            "id": 10,
+            "name": "Морковь",
+            "quantity": "1 кг",
+            "image": "https://img.freepik.com/premium-photo/carrot-with-word-it-is-white-background_996379-592.jpg",
+            "category": "Овощи",
+            "price": 45,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        },
+        {
+            "id": 11,
+            "name": "Брокколи",
+            "quantity": "500 г",
+            "image": "https://img.freepik.com/premium-photo/broccoli-isolated-white-background_29402-626.jpg",
+            "category": "Овощи",
+            "price": 130,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        },
+        {
+            "id": 12,
+            "name": "Лук реачатый",
+            "quantity": "1 кг",
+            "image": "https://img.freepik.com/premium-photo/onion-white-space_55883-5049.jpg",
+            "category": "Овощи",
+            "price": 45,
+            "descriptionSmall": "kjnjkn",
+            "description": "kjnjkn dscdwwdwdcwdc",
+            "dop": "Здесь скоро появится рецепт блюда с этим продуктом..."
+        }
+    ]
+}
